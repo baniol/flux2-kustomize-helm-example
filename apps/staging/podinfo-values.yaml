@@ -18,3 +18,4 @@ spec:
               pathType: ImplementationSpecific
     ui:
       color: #35a365
+    replicaCount: 2
